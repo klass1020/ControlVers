@@ -7,3 +7,6 @@ for(int i=0; i < 4; i++){
         a = a + 1;
     }
 }
+for(int i = 0; i < 2; i++){
+    Console.WriteLine(result[i]);
+}
