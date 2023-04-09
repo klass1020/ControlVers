@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string[] n = {"Hello","2","world","123"};
+string[] result =new string[2];
